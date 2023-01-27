@@ -13,5 +13,8 @@ function findFactorial(number) {
     }
   
   }
-  findFactorial(2);
+
+  findFactorial(8);
   //hello dev
+  //new change
+
