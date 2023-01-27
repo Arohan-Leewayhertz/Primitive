@@ -14,3 +14,4 @@ function findFactorial(number) {
   
   }
   findFactorial(6);
+  
