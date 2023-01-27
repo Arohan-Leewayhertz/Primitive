@@ -1,0 +1,3 @@
+[submodule "submodule-workshop"]
+	path = submodule-workshop
+	url = https://github.com/Arohan-Leewayhertz/submodule-workshop.git
