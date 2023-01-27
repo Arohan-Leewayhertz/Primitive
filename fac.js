@@ -13,5 +13,5 @@ function findFactorial(number) {
     }
   
   }
-  findFactorial(6);
+  findFactorial(2);
   //hello dev
